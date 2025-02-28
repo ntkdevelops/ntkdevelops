@@ -47,6 +47,6 @@ Machine Learning for Security: TensorFlow, Scikit-learn, anomaly detection in cy
 I am currently seeking an internship opportunity where I can apply my knowledge in software development, cybersecurity, and system architecture. I am eager to work with like-minded professionals and contribute to innovative projects in cybersecurity, software engineering, or low-level programming.
 
 📫 Connect with Me
-GitHub: @ntkdevelops
-LinkedIn: https://www.linkedin.com/in/mr-nkwelle-a90308293/
-Email: ntk.develops@gmail.com
+- GitHub: @ntkdevelops
+- LinkedIn: https://www.linkedin.com/in/mr-nkwelle-a90308293/
+- Email: ntk.develops@gmail.com
