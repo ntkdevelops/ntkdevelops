@@ -1,4 +1,4 @@
-👋 Hey there! I'm Nkwelle Ntungwe
+# 👋 Hey there! I'm Nkwelle Ntungwe
 
 🏆 About Me
 I am a software engineer entering my third year at Lakehead University, specializing in computer science with a deep passion for cybersecurity, software development, and advanced computing technologies. Born in Africa, I grew up in a challenging environment where access to technology was scarce. However, my relentless curiosity and determination pushed me to self-learn computer science from the ground up. Through hard work, I mastered complex topics, from low-level programming to cybersecurity defense mechanisms, and developed a deep love for solving intricate technical problems.
