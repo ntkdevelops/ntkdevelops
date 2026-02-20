@@ -20,9 +20,9 @@
 
 ## About Me
 
-I'm a third-year Computer Science student at **Lakehead University**. I was born in Cameroon and moved to Canada when I was 9 — and somewhere along the way I fell in love with how computers actually work under the hood.
+I'm a third-year Computer Science student at **Lakehead University**. I was born in Cameroon and moved to Canada when I was 9, and somewhere along the way I fell in love with how computers actually work under the hood.
 
-I'm drawn to **systems programming** and **cybersecurity**, not because they're trendy, but because they're hard and genuinely interesting. I like digging into low-level concepts — memory, kernels, concurrency — and building things that actually teach me something. Still learning a lot, but I'm putting in the work.
+I'm drawn to **systems programming** and **cybersecurity**, not because they're trendy, but because they're hard and genuinely interesting. I like digging into low-level concepts memory, kernels, concurrency and building things that actually teach me something. Still learning a lot, but I'm putting in the work.
 
 Currently looking for **internship opportunities** in software engineering, systems, or cybersecurity.
 
@@ -31,7 +31,7 @@ Currently looking for **internship opportunities** in software engineering, syst
 ## Projects
 
 ### 🖥️ Toy Operating System with Kernel Driver Support
-Built a bare-metal OS from scratch as a way to really understand what happens underneath the programs we run every day. Implemented basic kernel design, memory allocation, process management, and hardware driver support. It's a toy — but building it taught me more about system architecture than any textbook did.
+Built a bare-metal OS from scratch as a way to really understand what happens underneath the programs we run every day. Implemented basic kernel design, memory allocation, process management, and hardware driver support. It's a toy but building it taught me more about system architecture than any textbook did.
 **Skills:** C/C++, Systems Programming
 
 ---
