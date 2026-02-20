@@ -20,28 +20,38 @@
 
 ## About Me
 
-I'm a third-year Computer Science student at **Lakehead University**, with a deep focus on **cybersecurity**, **reverse engineering**, and **systems-level programming**. Born in Africa, I grew up in an environment where access to technology was limited — a challenge that only sharpened my drive to learn. I taught myself computer science from the ground up, working through everything from low-level memory management to advanced security concepts.
+I'm a third-year Computer Science student at **Lakehead University**. I was born in Cameroon and moved to Canada when I was 9 — and somewhere along the way I fell in love with how computers actually work under the hood.
 
-Today, I build tools that tackle real-world security threats, explore how software can be made more resilient, and constantly push the boundaries of what I know. I'm currently **open to internship opportunities** in cybersecurity, software engineering, or systems programming.
+I'm drawn to **systems programming** and **cybersecurity**, not because they're trendy, but because they're hard and genuinely interesting. I like digging into low-level concepts — memory, kernels, concurrency — and building things that actually teach me something. Still learning a lot, but I'm putting in the work.
+
+Currently looking for **internship opportunities** in software engineering, systems, or cybersecurity.
 
 ---
 
-## Featured Projects
+## Projects
 
-### 🦠 Antivirus Engine
-A signature-based and heuristic-based malware detection system with machine learning support for zero-day variant detection. Includes a custom sandbox environment for safe analysis of malicious executables in isolation.
+### 🖥️ Toy Operating System with Kernel Driver Support
+Built a bare-metal OS from scratch as a way to really understand what happens underneath the programs we run every day. Implemented basic kernel design, memory allocation, process management, and hardware driver support. It's a toy — but building it taught me more about system architecture than any textbook did.
+**Skills:** C/C++, Systems Programming
 
-### 🔏 Code Obfuscator & Reverse Engineering Defense
-A proprietary software protection tool employing control flow flattening, dead code injection, and instruction reordering to resist decompilation. Integrated anti-debugging and anti-tampering mechanisms to harden against dynamic analysis.
+---
 
-### 🎮 Anti-Cheat System for Online Games
-A real-time memory scanner that detects and blocks game cheats using kernel-mode drivers to prevent unauthorized memory access. Combines behavioral analysis with integrity checks to flag suspicious in-game activity.
+### ⚙️ Rust Backend Microservices
+Explored Rust by building small backend services focused on performance and reliability. Worked with concurrent processing and tried to understand what makes Rust's memory model different. A learning project that helped me appreciate the tradeoffs in low-level systems design.
+**Skills:** Rust, API Design
 
-### 🕵️ Malware & Botnet Analysis Framework
-Research-driven analysis of botnet architectures and real-world malware samples. Built a network traffic analyzer to detect anomalous data flows and simulated command-and-control (C2) infrastructure to model how modern threats operate.
+---
 
-### 🌍 Web Security Hardening & Penetration Testing
-Conducted penetration testing on compromised web applications, patching exploits and securing databases. Deployed WAF rules and developed custom intrusion detection systems to monitor and block ongoing attacks.
+### 🎮 Roblox Task Executor & Automation Tool
+Built a script executor and automation tool for Roblox to improve game development workflows. Wrote Lua scripts to handle batch processing of game mechanics more efficiently. It's a fun one — got to think about scripting, performance, and how game engines handle server-side logic.
+**Skills:** Lua, Game Development, Scripting
+
+---
+
+## What I'm Working On
+- Getting stronger in C and low-level memory concepts
+- Exploring cybersecurity fundamentals and CTF challenges
+- Learning more about how operating systems and kernels are designed
 
 ---
 
