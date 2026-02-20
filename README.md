@@ -65,16 +65,7 @@ Conducted penetration testing on compromised web applications, patching exploits
 **Machine Learning for Security**  
 `TensorFlow` `Scikit-learn` `Anomaly Detection`
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntkdevelops&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntkdevelops&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
 
 ## Open to Internships 🚀
 
