@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Nkwelle Ntungwe 👋</h1>
-
 <p align="center">
-  <em>Software Engineer · Cybersecurity Enthusiast · Systems Programmer</em>
+  <em>CS Student · Systems Programming · Cybersecurity Enthusiast</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ntungwe-nkwelle-a90308293/">
+  <a href="https://www.linkedin.com/in/mr-nkwelle-a90308293/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ntk.develops@gmail.com">
@@ -20,9 +19,9 @@
 
 ## About Me
 
-I'm a third-year Computer Science student at **Lakehead University**. I was born in Cameroon and moved to Canada when I was 9, and somewhere along the way I fell in love with how computers actually work under the hood.
+I'm a third-year Computer Science student at **Lakehead University**. I was born in Cameroon and moved to Canada when I was 9 — and somewhere along the way I fell in love with how computers actually work under the hood.
 
-I'm drawn to **systems programming** and **cybersecurity**, not because they're trendy, but because they're hard and genuinely interesting. I like digging into low-level concepts like memory, kernels, concurrency and building things that actually teach me something. Still learning a lot, but I'm putting in the work.
+I'm drawn to **systems programming** and **cybersecurity**, not because they're trendy, but because they're hard and genuinely interesting. I like digging into low-level concepts — memory, kernels, concurrency — and building things that actually teach me something. Still learning a lot, but I'm putting in the work.
 
 Currently looking for **internship opportunities** in software engineering, systems, or cybersecurity.
 
@@ -30,25 +29,29 @@ Currently looking for **internship opportunities** in software engineering, syst
 
 ## Projects
 
-### 🖥️ Toy Operating System with Kernel Driver Support
-Built a bare-metal OS from scratch as a way to really understand what happens underneath the programs we run every day. Implemented basic kernel design, memory allocation, process management, and hardware driver support. It's a toy but building it taught me more about system architecture than any textbook did.
-**Skills:** C/C++, Systems Programming
+### [ OS ] &nbsp; Toy Operating System with Kernel Driver Support
+Built a bare-metal OS from scratch as a way to really understand what happens underneath the programs we run every day. Implemented basic kernel design, memory allocation, process management, and hardware driver support. It's a toy — but building it taught me more about system architecture than any textbook did.
+
+`C` `C++` `Systems Programming`
 
 ---
 
-### ⚙️ Rust Backend Microservices
+### [ RS ] &nbsp; Rust Backend Microservices
 Explored Rust by building small backend services focused on performance and reliability. Worked with concurrent processing and tried to understand what makes Rust's memory model different. A learning project that helped me appreciate the tradeoffs in low-level systems design.
-**Skills:** Rust, API Design
+
+`Rust` `API Design`
 
 ---
 
-### 🎮 Roblox Task Executor & Automation Tool
-Built a script executor and automation tool for Roblox to improve game development workflows. Wrote Lua scripts to handle batch processing of game mechanics more efficiently. It's a fun one — got to think about scripting, performance, and how game engines handle server-side logic.
-**Skills:** Lua, Game Development, Scripting
+### [ LUA ] &nbsp; Roblox Task Executor & Automation Tool
+Built a script executor and automation tool for Roblox to improve game development workflows. Wrote Lua scripts to handle batch processing of game mechanics more efficiently. Got to think about scripting, performance, and how game engines handle server-side logic.
+
+`Lua` `Game Development` `Scripting`
 
 ---
 
 ## What I'm Working On
+
 - Getting stronger in C and low-level memory concepts
 - Exploring cybersecurity fundamentals and CTF challenges
 - Learning more about how operating systems and kernels are designed
@@ -75,10 +78,10 @@ Built a script executor and automation tool for Roblox to improve game developme
 **Machine Learning for Security**  
 `TensorFlow` `Scikit-learn` `Anomaly Detection`
 
+---
 
+## Open to Internships
 
-## Open to Internships 🚀
+I'm actively looking for internship roles where I can contribute to meaningful problems in software security, systems engineering, or applied research. If you're building something challenging and want someone who digs deep, let's talk.
 
-I'm actively looking for internship roles where I can contribute to meaningful problems in **software security**, **systems engineering**, or **applied research**. If you're building something challenging and want someone who digs deep, let's talk.
-
-📬 **ntk.develops@gmail.com**
+**Contact:** ntk.develops@gmail.com
